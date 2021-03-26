@@ -27,6 +27,10 @@ The analysis is carried out using Python 3.9 . Following are the libraries used:
 
 ## Results
 
+- Further details about the RFM analysis can be found in [RFM_Analysis.ipynb](RFM_Analysis.ipynb).
+
+- Further details about K-Means Clustering can be found in [RFM_Segmentation_Kmeans.ipynb](RFM_Segmentation_Kmeans.ipynb.ipynb)
+
 ## RFM Results
 
 - From the RFM Analysis it can be observed that a lot of customers in dataset have RFM score of below 6 out of 12. This means these customers require attention, while top customers and customers with medium scores are in same proportion. 
@@ -37,7 +41,6 @@ The analysis is carried out using Python 3.9 . Following are the libraries used:
 
 ![alt text](results/rfm_seg_cust.png)
 
-- Further details about the analysis can be found in [RFM_Analysis.ipynb](RFM_Analysis.ipynb).
 
 ## K-Means Clustering
 
